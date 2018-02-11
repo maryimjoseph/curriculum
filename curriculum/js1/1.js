@@ -9,8 +9,6 @@ const solution = (a, b) => {
   return a+b;
 };
 
-console.log(solution(10,20));
-
 module.exports = {
   solution,
 };
