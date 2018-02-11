@@ -6,8 +6,10 @@
  */
 
 const solution = (a, b) => {
-  return 0;
+  return a+b;
 };
+
+console.log(solution(10,20));
 
 module.exports = {
   solution,
